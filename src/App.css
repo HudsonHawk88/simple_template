@@ -31,3 +31,27 @@
     transform: rotate(360deg);
   }
 }
+
+#baloldal, #jobboldal {
+
+background-color: aqua;
+height: 1000px;
+
+}
+
+#tartalom {
+
+  background-color: rgb(98, 0, 255);
+  height: 1000px;
+  
+  }
+
+#navbar {
+  background-color: bisque;
+  height:50px;
+}
+
+#footer {
+  background-color: bisque;
+  height:50px;
+}
