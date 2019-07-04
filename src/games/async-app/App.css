@@ -31,27 +31,3 @@
     transform: rotate(360deg);
   }
 }
-
-
-/* Extra large devices (large desktops, 1200px and up) */
- 
-
-    
-    #tartalom {
-    
-      background-color: rgb(98, 0, 255);
-      height: 1000px;
-    
-      }
-    
-    
-    
-    #footer {
-      background-color: bisque;
-      height:50px;
-    }
-
- 
-
-
-
